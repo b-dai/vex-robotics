@@ -1,5 +1,7 @@
 # Igneous Robotics 1274B
 Copy of my robot program files for (retired) team 1274B Igneous Robotics.
+Our team used VEXcode Pro V5 studio to code the majority of our robots.
+'Dive into Odometry' is a whitepaper meant to help explain general robot position tracking, especially in VEX Robotics.
 
 ## License
 MIT License
